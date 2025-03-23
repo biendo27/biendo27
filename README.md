@@ -108,17 +108,13 @@ Hey there! 👋 I'm a passionate Software Engineer with **3+ years** of building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biendo27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Bien's GitHub Stats" width="45%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biendo27&theme=dark&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biendo27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=666666" alt="Bien's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biendo27&theme=radical&border=666666" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biendo27&column=7&theme=darkhub&no-frame=true" alt="Bien's Trophy" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biendo27&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biendo27&layout=compact&theme=radical&border_color=666666" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=biendo27&theme=radical&column=4&margin-w=5&margin-h=5&frame=true" alt="Bien's Trophy" width="45%" />
 </p>
 
 <!-- CONNECT SECTION -->
