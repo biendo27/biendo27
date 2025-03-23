@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Chill Coding Workspace" width="700">
 </p>
 
 <p align="center">
@@ -18,14 +18,8 @@
 
 <!-- ABOUT ME SECTION -->
 ## 👨‍💻 About Me
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-I am an accomplished Mobile Application Developer with **3+ years** of experience in building high-performance cross-platform applications using **Flutter** and **Dart**. My expertise includes:
-- **State Management:** Leveraging BLoC, GetX, and Provider.
-- **API Integration & Security:** RESTful APIs with Dio, JWT, OAuth2, and SSO.
-- **Clean Architecture & Best Practices:** Applying SOLID principles and design patterns for scalable solutions.
-
-Currently leading mobile development at **DosTech Co.**, I manage the full lifecycle of projects and mentor a team of 4 developers. I'm passionate about creating robust, maintainable code while aiming to transition into project management roles.
+Hey there! 👋 I'm a passionate Software Engineer with **3+ years** of building cool cross-platform apps with **Flutter** and **Dart**. When I'm not coding, you might find me exploring new tech or enjoying a good cup of coffee! ☕
 
 <!-- TECH STACK SECTION -->
 ## 🛠️ Tech Stack
@@ -100,12 +94,12 @@ Currently leading mobile development at **DosTech Co.**, I manage the full lifec
 </table>
 
 <!-- KEY ACHIEVEMENTS SECTION -->
-## 🏆 Key Achievements
+<!-- ## 🏆 Key Achievements
 
 - **Team Leadership:** Spearheading multiple mobile projects and mentoring a team of 4 at DosTech Co.
 - **Performance Boost:** Achieved a **50% increase in app performance** by refining state management strategies.
 - **Blockchain & Security:** Developed blockchain-secured mobile applications with robust security protocols, contributing to **100K+ downloads**.
-- **Academic Excellence:** Graduated top of my class (GPA: 3.67/4.0) from Vietnam Maritime University.
+- **Academic Excellence:** Graduated top of my class (GPA: 3.67/4.0) from Vietnam Maritime University. -->
 
 <!-- FEATURED PROJECT SECTION -->
 ## 🚀 Featured Project: DCore Flutter
