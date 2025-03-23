@@ -93,14 +93,6 @@ Hey there! 👋 I'm a passionate Software Engineer with **3+ years** of building
   </tr>
 </table>
 
-<!-- KEY ACHIEVEMENTS SECTION -->
-<!-- ## 🏆 Key Achievements
-
-- **Team Leadership:** Spearheading multiple mobile projects and mentoring a team of 4 at DosTech Co.
-- **Performance Boost:** Achieved a **50% increase in app performance** by refining state management strategies.
-- **Blockchain & Security:** Developed blockchain-secured mobile applications with robust security protocols, contributing to **100K+ downloads**.
-- **Academic Excellence:** Graduated top of my class (GPA: 3.67/4.0) from Vietnam Maritime University. -->
-
 <!-- FEATURED PROJECT SECTION -->
 ## 🚀 Featured Project: DCore Flutter
 
@@ -115,21 +107,19 @@ Hey there! 👋 I'm a passionate Software Engineer with **3+ years** of building
 <!-- GITHUB STATS SECTION -->
 ## 📊 GitHub Stats
 
-<div style="display: grid; grid-template-columns: 3fr 4fr; grid-template-rows: auto auto; grid-gap: 15px; margin-bottom: 20px;">
-  <!-- GitHub Readme Stats Card - Left side, spanning 2 rows -->
-  <div style="grid-column: 1; grid-row: 1 / span 2;">
-    <img src="https://github-readme-stats.vercel.app/api?username=biendo27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Bien's GitHub Stats" width="100%" style="margin-bottom: 15px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biendo27&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="100%" />
-  </div>
-  
-  <!-- Right Side: Trophy and Streak -->
-  <div style="grid-column: 2; grid-row: 1 / span 2;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" style="display: block; margin-bottom: 15px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=biendo27&column=4&theme=darkhub" alt="Bien's Trophy" width="100%" />
-    </a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=biendo27&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biendo27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Bien's GitHub Stats" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biendo27&theme=dark&hide_border=true" alt="GitHub Streak" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=biendo27&column=7&theme=darkhub&no-frame=true" alt="Bien's Trophy" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biendo27&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="58%" />
+</p>
 
 <!-- CONNECT SECTION -->
 ## 📫 Let's Connect
