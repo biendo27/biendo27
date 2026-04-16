@@ -4,33 +4,31 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Software%20Engineer-0078D7?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Software Engineer"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-LLM%20%7C%20Gen%20AI%20%7C%20Agentic-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open To Work"/>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Do Bien</h1>
-<h3 align="center">Software Engineer | Flutter Enthusiast | Team Leader</h3>
+<h3 align="center">AI Engineer — Building with LLMs, Gen AI & Agentic Systems</h3>
 
 <p align="center">
   <a href="https://github.com/biendo27"><img src="https://komarev.com/ghpvc/?username=biendo27&label=Profile%20views&color=0e75b6&style=flat" alt="biendo27" /></a>
   <a href="mailto:biendo347@gmail.com"><img src="https://img.shields.io/badge/Email-biendo347@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/biendo27/"><img src="https://img.shields.io/badge/LinkedIn-biendo27-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/biendo27"><img src="https://img.shields.io/badge/Facebook-biendo27-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 <!-- ABOUT ME SECTION -->
 ## 👨‍💻 About Me
 
-Hey there! 👋 I'm a passionate Software Engineer with **3+ years** of building cool cross-platform apps with **Flutter** and **Dart**. When I'm not coding, you might find me exploring new tech or enjoying a good cup of coffee! ☕
+Software Engineer transitioning into **AI Engineering** — focused on **LLM applications**, **Generative AI**, and **Agentic systems**.
+
+5+ years of software development experience (Flutter, full-stack), now channeling that foundation into building intelligent, autonomous AI-powered products.
+
+Currently **open to work** — looking for roles in AI Engineering, LLM/Gen AI development, or Agentic system design.
 
 <!-- TECH STACK SECTION -->
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="70">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70">
-</p>
 
 <table>
   <tr>
@@ -38,104 +36,82 @@ Hey there! 👋 I'm a passionate Software Engineer with **3+ years** of building
     <td><strong>Technologies</strong></td>
   </tr>
   <tr>
-    <td>Frontend & Mobile</td>
+    <td>AI / LLM</td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" alt="Anthropic" />
+      <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI" />
+    </td>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+    </td>
+  </tr>
+  <tr>
+    <td>Mobile & Frontend</td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
   <tr>
-    <td>State Management</td>
+    <td>Backend & Infra</td>
     <td>
-      <img src="https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white" alt="BLoC" />
-      <img src="https://img.shields.io/badge/Provider-4285F4?style=flat&logo=flutter&logoColor=white" alt="Provider" />
-      <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat&logo=flutter&logoColor=white" alt="GetX" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-    </td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt="ASP.NET" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-    </td>
-  </tr>
-  <tr>
-    <td>Database</td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firestore" />
-    </td>
-  </tr>
-  <tr>
-    <td>DevOps & Tools</td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
-      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </td>
-  </tr>
-  <tr>
-    <td>Cloud & Deployment</td>
-    <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
     </td>
   </tr>
 </table>
 
 <!-- FEATURED PROJECT SECTION -->
-## 🚀 Featured Project: DCore Flutter
+## 🚀 Featured Project
 
-[**DCore Flutter**](https://github.com/biendo27/dcore_flutter) is my personal favorite project – a modular, scalable Flutter codebase that implements best practices such as BLoC, dependency injection (GetIt), and Clean Architecture.
+### [Agentic Base](https://github.com/biendo27/agentic_base)
+Dart CLI tool generating production-ready Flutter codebases optimized for AI-agent-driven development.
 
 <p align="center">
-  <a href="https://github.com/biendo27/dcore_flutter">
-    <img src="https://img.shields.io/badge/GitHub-dcore__flutter-181717?style=for-the-badge&logo=github" alt="dcore_flutter" />
+  <a href="https://github.com/biendo27/agentic_base">
+    <img src="https://img.shields.io/badge/GitHub-agentic__base-181717?style=for-the-badge&logo=github" alt="agentic_base" />
   </a>
 </p>
+
+> More quality projects coming soon — stay tuned! 🔜
 
 <!-- GITHUB STATS SECTION -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biendo27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=666666" alt="Bien's GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biendo27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=666666" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biendo27&theme=radical&border=666666" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biendo27&layout=compact&theme=radical&border_color=666666" alt="Top Languages" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=biendo27&theme=radical&column=4&margin-w=5&margin-h=5&frame=true" alt="Bien's Trophy" width="45%" />
 </p>
 
 <!-- CONNECT SECTION -->
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:biendo347@gmail.com"><img src="https://img.shields.io/badge/Email-biendo347@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:biendo347@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/biendo27/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/biendo27"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://github.com/biendo27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! Feel free to reach out for collaborations or just a chat about tech.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biendo27&label=Visitors&color=0e75b6&style=flat" alt="biendo27" />
-  <img src="https://img.shields.io/github/followers/biendo27?label=Followers" alt="biendo27" />
+  Open to collaborations in AI/LLM/Agentic projects — let's build something intelligent together.
 </p>
