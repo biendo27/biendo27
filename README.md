@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-LLM%20%7C%20Gen%20AI%20%7C%20Agentic-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-LLMs%20%C2%B7%20Generative%20AI%20%C2%B7%20Agentic%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer"/>
   <img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open To Work"/>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Do Bien</h1>
-<h3 align="center">AI Engineer — Building with LLMs, Gen AI & Agentic Systems</h3>
+<h3 align="center">AI Engineer — LLMs · Generative AI · Agentic Systems</h3>
 
 <p align="center">
   <a href="https://github.com/biendo27"><img src="https://komarev.com/ghpvc/?username=biendo27&label=Profile%20views&color=0e75b6&style=flat" alt="biendo27" /></a>
